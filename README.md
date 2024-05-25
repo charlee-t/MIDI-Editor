@@ -1,8 +1,8 @@
-# VBA MIDI Editor
+# VB.NET MIDI Editor
 
 ## Description:
 
-Welcome to the VBA MIDI Editor! This application is designed to provide a comprehensive solution for importing, editing, and exporting MIDI files within a VBA environment. Whether you're a musician, a hobbyist, or a developer, this tool offers the functionality needed to manipulate MIDI data with ease.
+Welcome to the VB.NET MIDI Editor! This application is designed to provide a comprehensive solution for importing, editing, and exporting MIDI files within a VB.NET environment. Whether you're a musician, a hobbyist, or a developer, this tool offers the functionality needed to manipulate MIDI data with ease.
 
 ![Piano Roll MIDI 1](https://github.com/CharleeTalingdan/MIDI-Editor/assets/144240397/a599a209-4ae5-4edb-95cc-1db7169e5e8f)
 ![Piano Roll MIDI 1c](https://github.com/CharleeTalingdan/MIDI-Editor/assets/144240397/7ba53833-a901-4ba7-b50a-0fdb1df9597c)
@@ -29,7 +29,7 @@ Welcome to the VBA MIDI Editor! This application is designed to provide a compre
 
 ## Getting Started:
 
-To get started with the VBA MIDI Editor, clone the repository and follow the setup instructions in the README file. Make sure you have the necessary VBA environment configured on your system.
+To get started with the VBA MIDI Editor, clone the repository and follow the setup instructions in the README file. Make sure you have the necessary VB.NET environment configured on your system.
 
 ```bash
 git clone https://github.com/CharleeTalingdan/MIDI-Editor.git
