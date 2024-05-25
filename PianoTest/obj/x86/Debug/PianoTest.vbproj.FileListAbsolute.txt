@@ -1,0 +1,28 @@
+c:\users\ct003961564\documents\visual studio 2010\Projects\PianoTest\PianoTest\bin\Debug\PianoTest.exe
+c:\users\ct003961564\documents\visual studio 2010\Projects\PianoTest\PianoTest\bin\Debug\PianoTest.pdb
+c:\users\ct003961564\documents\visual studio 2010\Projects\PianoTest\PianoTest\bin\Debug\PianoTest.xml
+c:\users\ct003961564\documents\visual studio 2010\Projects\PianoTest\PianoTest\obj\x86\Debug\PianoTest.Form1.resources
+c:\users\ct003961564\documents\visual studio 2010\Projects\PianoTest\PianoTest\obj\x86\Debug\PianoTest.Resources.resources
+c:\users\ct003961564\documents\visual studio 2010\Projects\PianoTest\PianoTest\obj\x86\Debug\PianoTest.vbproj.GenerateResource.Cache
+c:\users\ct003961564\documents\visual studio 2010\Projects\PianoTest\PianoTest\obj\x86\Debug\PianoTest.exe
+c:\users\ct003961564\documents\visual studio 2010\Projects\PianoTest\PianoTest\obj\x86\Debug\PianoTest.xml
+c:\users\ct003961564\documents\visual studio 2010\Projects\PianoTest\PianoTest\obj\x86\Debug\PianoTest.pdb
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\bin\Debug\PianoTest.exe
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\bin\Debug\PianoTest.pdb
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\bin\Debug\PianoTest.xml
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\obj\x86\Debug\PianoTest.Form1.resources
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\obj\x86\Debug\PianoTest.Resources.resources
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\obj\x86\Debug\PianoTest.vbproj.GenerateResource.cache
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\obj\x86\Debug\PianoTest.vbproj.CoreCompileInputs.cache
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\obj\x86\Debug\PianoTest.exe
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\obj\x86\Debug\PianoTest.xml
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\obj\x86\Debug\PianoTest.pdb
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\bin\Debug\PianoTest.exe.config
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\bin\Debug\Melanchall.DryWetMidi.dll
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\obj\x86\Debug\PianoTest.vbproj.CopyComplete
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\bin\Debug\Resources\play.bmp
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\obj\x86\Debug\PianoTest.vbprojAssemblyReference.cache
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\obj\x86\Debug\PianoTest.NoteEdit.resources
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\bin\Debug\Resources\01.mid
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\obj\x86\Debug\PianoTest.Tutorial.resources
+C:\Users\CT003961564\source\repos\PianoTest\PianoTest\bin\Debug\Resources\piano_tiles_icon.ico
