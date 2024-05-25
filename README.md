@@ -44,6 +44,8 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 This project is open source.
 
 
+## 
+
 Enjoy making music with the VBA MIDI Editor! If you have any questions or need further assistance, feel free to reach out.
 
 ## Contact
