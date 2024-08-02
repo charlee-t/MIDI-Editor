@@ -50,4 +50,4 @@ Enjoy making music with the VBA MIDI Editor! If you have any questions or need f
 
 ## Contact:
 
-Author: Charlee Talingdan GitHub Repository: https://github.com/CharleeTalingdan/MIDI-Editor
+Author: Charlee Talingdan GitHub Repository: [https://github.com/CharleeTalingdan/MIDI-Editor](https://github.com/charlee-t/MIDI-Editor)
